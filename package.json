@@ -1,0 +1,9 @@
+{
+  "name": "devtask-manager",
+  "version": "0.2.1",
+  "description": "Personal task manager for software developers (IU DLBCSPSE01 project)",
+  "private": true,
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js" }
+}
